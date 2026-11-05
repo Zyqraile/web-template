@@ -1,2 +1,6 @@
-# web-template
-Base website template that can be used for every website
+# Zyqraile web-template
+
+**Zyqraile web-template is a basic website template.**
+
+## *Putting customers first, revenue second.*
+Hosted on Github
